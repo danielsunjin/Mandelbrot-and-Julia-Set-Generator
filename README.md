@@ -10,3 +10,9 @@ This project was inspired by the GeekForGeeks article [Mandelbrot Fractal Set vi
 Python libraries required to run the code:
 - PIL
 - numpy
+
+**Example Generated Mandelbrot Set:**
+![Mandelbrot Set Example](https://github.com/danielsunjin/Mandelbrot-and-Julia-Set-Generator/blob/main/mandelbrot_set_example.PNG)
+
+**Example Generated Julia Set:**
+![Julia Set Example](https://github.com/danielsunjin/Mandelbrot-and-Julia-Set-Generator/blob/main/julia_set_example.PNG)
