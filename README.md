@@ -1,4 +1,4 @@
-# Mandelbrot-and-Julia-Set-Generator
+# Mandelbrot and Julia Set Generator
 The code in this repository includes my custom complex number Python class and code to generate [Mandelbrot](https://en.wikipedia.org/wiki/Mandelbrot_set) and [Julia](https://en.wikipedia.org/wiki/Julia_set) sets using the class in Python. 
 
 The Mandelbrot set is the set of complex numbers *c = x + yi* for which the function *f(z) = z^deg + c* does not diverge to infinity for some degree *deg* and the seed value *z = 0 + 0i*. The complex numbers that diverge and are part of the Mandelbrot set are called prisoners and the compelx numbers that do diverge are called escapees. The Mandelbrot set can be plotted on the complex plane, with the X and Y axes corresponding to the real and imaginary parts of *c* respectively. This plot is a fractal image. 
